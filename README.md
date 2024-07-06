@@ -3,7 +3,7 @@ This project focuses on early detection of Alzheimer's disease (AD) using advanc
 
 #
 **1) INTRODUCTION**
-The project aims to develop an  model for early Alzheimer's disease (AD) detection using
+The project aims to develop a model for early Alzheimer's disease (AD) detection using
 speech analysis. The critical challenge addressed is the need for accessible and timely methods of
 identifying AD onset, considering the significant impact of delayed diagnosis on patient outcomes.
 By leveraging advanced deep learning algorithms, the model seeks to analyze subtle linguistic
